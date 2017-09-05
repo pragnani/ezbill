@@ -1,0 +1,13 @@
+.project
+.settings/*
+target/*
+*/target/*
+*/.settings/*
+*/.classpath
+.classpth
+.mvn/*
+*/.mvn/*
+node/*
+node_modules/*
+build/*
+typings/*
